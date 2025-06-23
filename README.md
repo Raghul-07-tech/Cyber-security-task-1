@@ -28,9 +28,9 @@ This project involves performing a local network scan using **Nmap** (via the Ze
 
 ## 🖥️ Scan Summary
 
-- **Target Range**: `192.168.1.0/24`
+- **Target Range**: `192.168.1.1/24`
 - **Scan Type**: TCP SYN Scan (`-sS`)
-- **Live Devices Found**: `192.168.1.1`, `192.168.1.3`, `192.168.1.4`, `192.168.1.7`
+- **Live Devices Found**: `192.168.1.2`, `192.168.1.3`, `192.168.1.4`, `192.168.1.7`
 - **Scan Target Example**: `192.168.1.X` (your system)
 
 ---
